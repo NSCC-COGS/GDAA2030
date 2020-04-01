@@ -14,6 +14,7 @@ In class we each got setup with a gitHub account. We also experimented with [Git
 
 learning git can be a bit confusing. So many strange terms.. Honestly a good place to start (apart from familiarizing yourself with the interface) maybe to take a look at the [glossary of git terms](https://help.github.com/en/github/getting-started-with-github/github-glossary).
 
+<b> Please Note: This is a <i>public</i> repository meaning that anything you post here will be aviliable for the wolrd to see. But don't be shy!</b>
 
 ## More Information
 
