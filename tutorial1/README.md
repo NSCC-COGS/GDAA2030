@@ -13,22 +13,24 @@ for example: https://github.com/NSCC-COGS/GDAA2030/tree/master/tutorial1/kevinkm
 
 Navigate to the folder with <b>your git name</b> - and locate the upload button.
 
-***
-![upload](1_upload.jpg)
-***
+
+<!---![upload](1_upload.jpg)--->
+<kbd><img src="1_upload.jpg"></kbd>
+
 
 then.. locate your python script file from Tutorial 1 <b>AND</b> the accompanying image you chose for tutorial one. (We will be using this image later)
 
-***
-![uploaded](2_uploading.jpg)
-***
+
+<!---[uploaded](2_uploading.jpg)--->
+<kbd><img src="2_uploading.jpg"></kbd>
+
 
 > Note: every time you upload something to a git you have to 'commit changes'. As a part of this process you describe the changes you are making (brifly and again optionally in more detail). These little messages becomes a godsend for tracking though the many changes you may have made to a git reposititory so (in general) try your best to keep then sussinct and descriptive. 
 
-Once your files are commited and uploaded you should see them appear in approprate location on the git repo page! Hurrah!
+<!---![uploaded](3_uploaded.jpg)--->
+<kbd><img src="3_uploaded.jpg"></kbd>
 
-***
-![uploaded](3_uploaded.jpg)
+Once your files are commited and uploaded you should see them appear in approprate location on the git repo page! Hurrah!
 ***
 
 Well done! You've gone open source!
