@@ -9,6 +9,8 @@ Previously we had completed Tutorial 1 in class. Good work! Now we are all going
 Above this readme you should find a folder with your super special gitHub login name. 
 for example: https://github.com/NSCC-COGS/GDAA2030/tree/master/tutorial1/kevinkmcguigan
 
+***
+
 Navigate to the folder with <b>your git name</b> - and locate the upload button.
 
 ![upload](1_upload.jpg)
@@ -22,6 +24,8 @@ then.. locate your python script file from Tutorial 1 <b>AND</b> the accompanyin
 Once your files are commited and uploaded you should see them appear in approprate location on the git repo page! Hurrah!
 
 ![uploaded](3_uploaded.jpg)
+
+***
 
 Well done! You've gone open source!
 
