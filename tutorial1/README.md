@@ -1,1 +1,1 @@
-** Tutorial 1 (the gitHub expansion pack!)
+# Tutorial 1 (the gitHub expansion pack!)
