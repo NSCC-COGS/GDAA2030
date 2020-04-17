@@ -78,7 +78,7 @@ copy or tyepe this into into your notebook and run the command as below...
 
 ok..
     
-    >BIG note once this step is complete, comment it out! (CTRL+/)
+>BIG note once this step is complete, comment it out! (CTRL+/)
 
 Now, were going to find our tutorial1.py files and load them into the google colab notebook... Excuse me this ones a little dense.. 
 
@@ -103,9 +103,10 @@ simply...
 1. find and RIGHT click on the approprate image in the virtual machine's file system (ie, tutorial1Image.PNG) and select <i>copy path</i>
 2. comment out the line in the code where we originally set the location of the image file and inset the new line:
 
-><code>image = plt.imread('^^PASTE YOUR HERE^^')</code>
 
-    > Big Note! and do paste the copied location between the quotes above!
+<code>image = plt.imread('^^PASTE YOUR HERE^^')</code>
+
+> Big Note! and do paste the copied location between the quotes above!
 
 3. Hit the little white 'run' button on the new code block
 4. If everything went according to plan.. check out the results of Tutorial 1 below! 
@@ -120,17 +121,19 @@ But! We can instead point directly to our image on the git website - this will w
 
 1. comment out the previous method for loading the image (CRTL+/) and enter the following:
 
-><code>import requests
+<code>
+import requests
 
->import matplotlib.image as mpimg
+import matplotlib.image as mpimg
 
->url = 'https://github.com/NSCC-COGS/GDAA2030/blob/master/tutorial1/kevinkmcguigan/tutorial1Image.PNG?raw=true'
+url = 'https://github.com/NSCC-COGS/GDAA2030/blob/master/tutorial1/kevinkmcguigan/tutorial1Image.PNG?raw=true'
 
->img_raw = requests.get(url, stream=True).raw
+img_raw = requests.get(url, stream=True).raw
 
->image = mpimg.imread(img_raw)</code>
+image = mpimg.imread(img_raw)
+</code>
 
-    > BIG note: the above url will be different for each of your images on the git. You must simply navigate on the github website to the location of the image and copy that url and add '?raw=true' onto the end. As a matter of fact - using this method you can point to any image link openly avilable on the internet - you will only specificalyl need the '?raw=true' for images hosted on hithub repos. 
+>BIG NOTE: the above url will be different for each of your images on the git. You must simply navigate on the github website to the location of the image and copy that url and add '?raw=true' onto the end. As a matter of fact - using this method you can point to any image link openly avilable on the internet - you will only specificalyl need the '?raw=true' for images hosted on hithub repos. 
 
 2. note that in this insance we no longer need to set the image to an a numpy array as it will already be one -  but setting and array to an arry is not the end of the world (it wonr break anything) and your specific code may vary 
 
