@@ -1,8 +1,10 @@
-# Tutorial 2
+# Tutorial 2 (more git and colab!)
 
 <b>Assignment: find and upload the two .py scripts associated with tutorial 2. Modify and upload the controlling script into functioning .ipynb file using google colab.</b>
 
 ***
+
+## A little Background
 
 Hey if you're here I hope you've completed the materials in [Tutorial 1](https://github.com/NSCC-COGS/GDAA2030/tree/master/tutorial1). By now we should be relatively comfortable with the GihHub website and [Google Colab](https://colab.research.google.com/). 
 
