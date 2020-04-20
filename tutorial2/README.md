@@ -86,3 +86,4 @@ If you're stuck, check out my .ipynb [here](https://github.com/NSCC-COGS/GDAA203
 
 If you have any questions don't hesitate to ask!
 
+<i>Note:</i> If you dont have the <i> exactly </i> same console output as my .ipynb don't worry about that - as long as you're getting the correct image to show using pandas and matplotlib you're golden! 
