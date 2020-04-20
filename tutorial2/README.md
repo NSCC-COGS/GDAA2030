@@ -82,6 +82,7 @@ Very Cool!
 
 ## Did it work?
 Once youre done here, your folder for Tutorial 2 should like similar to [mine](https://github.com/NSCC-COGS/GDAA2030/tree/master/tutorial2/kevinkmcguigan).
-If you're stuck, check out my .ipynb [here](https://github.com/NSCC-COGS/GDAA2030/blob/master/tutorial2/kevinkmcguigan/GDAA2030_T2_kevinmc_getLandsat.ipynb)
+If you're stuck, check out my .ipynb [here](https://github.com/NSCC-COGS/GDAA2030/blob/master/tutorial2/kevinkmcguigan/GDAA2030_T2_kevinmc_getLandsat.ipynb).
+
 If you have any questions don't hesitate to ask!
 
