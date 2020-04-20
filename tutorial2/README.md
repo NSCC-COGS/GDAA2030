@@ -78,7 +78,7 @@ Check it out!
 
 <kbd><img src="2_6_results.jpg"></kbd>
 
+## Did it work?
+Once youre done here, your folder for Tutorial 2 should like similar to [mine](https://github.com/NSCC-COGS/GDAA2030/tree/master/tutorial2/kevinkmcguigan)
 If you have any questions don't hesitate to ask!
-    
-
 
