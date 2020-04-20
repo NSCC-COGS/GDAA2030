@@ -1,6 +1,6 @@
 # Tutorial 2
 
-<b>Assignment: find and upload the 3 .py scripts associated with tutorial 2. Modify and upload the controlling script into functioning .ipynb file using google colab.</b>
+<b>Assignment: find and upload the two .py scripts associated with tutorial 2. Modify and upload the controlling script into functioning .ipynb file using google colab.</b>
 
 ***
 
