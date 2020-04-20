@@ -60,7 +60,7 @@ For assistance - see [Tutorial 1](https://github.com/NSCC-COGS/GDAA2030/tree/mas
 
     So, ensure that the variable sceneList equals the following link:
 
-            https://landsat-pds.s3.amazonaws.com/c1/L8/scene_list.gz
+        https://landsat-pds.s3.amazonaws.com/c1/L8/scene_list.gz
 
     for example: 
 
