@@ -27,4 +27,4 @@ This is called the 'readme.' It’s a bit of a central landing page explaining t
 Once I see a few people jumped onto the git - expect to see some new materials coming on. 
 For one, I would like to move our old tutorials up here so we can share them and maybe even begin to make some improvements.
 
-## making a quick edit change as requested in the class notes....A.Drake
+
