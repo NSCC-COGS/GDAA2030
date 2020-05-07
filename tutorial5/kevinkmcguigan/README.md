@@ -1,3 +1,3 @@
 # Tutorial 5
 
-hey guys - I'm in the works of throwing up this tutorial 5 - I'll post updates here as I go and send a note when its ready to have a go at. Feel free to paruse the attached .ipynb files to see what we have brewing in store!
+Hey All! Jump into the file [GDAA2030_T5_kevinmc.ipynb](https://github.com/NSCC-COGS/GDAA2030/blob/master/tutorial5/kevinkmcguigan/GDAA2030_T5_kevinmc.ipynb)  to get staeted. Check out the other files if you like to sift though some of the chaos that goes into preparing these materials.. 
